@@ -1,4 +1,4 @@
----
+---https://static.cdninstagram.com/rsrc.php/v3/yV/l/0,cross/WbY7Nan1gYb0EwBa8z0OC1rCCkpzY0tD1x2CPbyMJguG.css?_nc_x=Ij3Wp8lg5Kz
 title: Iniciando com HTML
 slug: Learn/HTML/Introduction_to_HTML/Getting_started
 original_slug: Aprender/HTML/Introducao_ao_HTML/Getting_started
